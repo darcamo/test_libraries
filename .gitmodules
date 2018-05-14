@@ -1,0 +1,6 @@
+[submodule "test_imgui/imgui-sfml"]
+	path = test_imgui/imgui-sfml
+	url = https://github.com/eliasdaler/imgui-sfml.git
+[submodule "test_imgui/imgui"]
+	path = test_imgui/imgui
+	url = https://github.com/ocornut/imgui.git
